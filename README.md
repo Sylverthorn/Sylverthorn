@@ -1,6 +1,6 @@
 <!-- Bannière d'en-tête -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:38BDF8&height=200&section=header&text=Korichi%20Yanis&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Networking%20%E2%80%A2%20IoT%20%E2%80%A2%20Backend%20%26%20Automation&descAlignY=62&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:38BDF8&height=200&section=header&text=Korichi%20Yanis&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Networking%20%E2%80%A2%20IoT%20%E2%80%A2%20Backend%20%E2%80%A2%20Automation&descAlignY=62&descSize=18" width="100%" />
 </p>
 
 <!-- Sous-titre animé -->
