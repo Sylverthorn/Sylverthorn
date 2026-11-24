@@ -1,56 +1,54 @@
-<!-- Bannière d'en-tête -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:38BDF8&height=200&section=header&text=Korichi%20Yanis&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Networking%20%E2%80%A2%20IoT%20%E2%80%A2%20Backend%20%E2%80%A2%20Automation&descAlignY=62&descSize=18" width="100%" />
+  <img src="./assets/header.svg" alt="Korichi Yanis — Development, Networking and Systems" width="100%" />
 </p>
 
-<!-- Sous-titre animé -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Networking+%26+Infrastructure+Enthusiast;Building+Connected+IoT+Systems+%26+Web+Apps;Automating+Workflows+with+Python%2C+Bash+%26+PowerShell" alt="Typing SVG" />
+<br/>
+
+```text
+> whoami
+Korichi Yanis (@Sylverthorn) — Developer & Infrastructure Builder
+
+> cat ./focus.conf
+[01] DEVELOPMENT  — Backend architecture, web applications & automation tooling
+[02] NETWORKING   — Routing, switching, network infrastructure & protocols
+[03] SYSTEMS      — Linux/Windows administration, containerization & edge hardware
+```
+
+<p align="left">
+  <a href="https://github.com/Sylverthorn"><img src="https://img.shields.io/badge/GITHUB-141414?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LINKEDIN-141414?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+  <a href="mailto:ton.email@exemple.com"><img src="https://img.shields.io/badge/CONTACT-141414?style=flat-square&logo=gmail&logoColor=FFFFFF" alt="Email" /></a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</p>
 
-### 👨‍💻 About Me
+### `01 // STACK`
 
-I'm **Yanis**, a tech enthusiast bridging the gap between **networks, embedded IoT hardware, and backend web development**. I enjoy building end-to-end projects—from wiring sensors and configuring network infrastructure to containerizing and deploying web interfaces.
-
-- 🔭 **Currently working on:** *<!-- Ex: A home automation dashboard / Network monitoring tool -->*
-- 🌱 **Currently learning:** *<!-- Ex: Kubernetes, Cybersecurity, Advanced Django... -->*
-- ⚡ **Main focus:** Automation, Self-Hosting, IoT (MQTT), and Network Architecture.
-- 📫 **Reach me:** 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-PROFIL)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ton.email@exemple.com)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Domain | Technologies |
+| Layer | Tools & Technologies |
 | :--- | :--- |
-| **🌐 Web & Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **⚙️ SysAdmin & Scripting** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white) |
-| **📡 Networking & IoT** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Mosquitto](https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) |
-
----
-
-### 📊 GitHub Analytics
+| **`DEV`** | ![Python](https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/Django-141414?style=flat-square&logo=django&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-141414?style=flat-square&logo=javascript&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/HTML5-141414?style=flat-square&logo=html5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/CSS3-141414?style=flat-square&logo=css3&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-141414?style=flat-square&logo=mysql&logoColor=FFFFFF) |
+| **`NET`** | ![Cisco](https://img.shields.io/badge/Cisco-141414?style=flat-square&logo=cisco&logoColor=FFFFFF) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-141414?style=flat-square&logo=ubiquiti&logoColor=FFFFFF) ![Mosquitto](https://img.shields.io/badge/Mosquitto-141414?style=flat-square&logo=eclipsemosquitto&logoColor=FFFFFF) |
+| **`SYS`** | ![Docker](https://img.shields.io/badge/Docker-141414?style=flat-square&logo=docker&logoColor=FFFFFF) ![Apache](https://img.shields.io/badge/Apache-141414?style=flat-square&logo=apache&logoColor=FFFFFF) ![Bash](https://img.shields.io/badge/Bash-141414?style=flat-square&logo=gnu-bash&logoColor=FFFFFF) ![PowerShell](https://img.shields.io/badge/PowerShell-141414?style=flat-square&logo=powershell&logoColor=FFFFFF) ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-141414?style=flat-square&logo=windows-terminal&logoColor=FFFFFF) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-141414?style=flat-square&logo=raspberry-pi&logoColor=FFFFFF) ![Arduino](https://img.shields.io/badge/Arduino-141414?style=flat-square&logo=arduino&logoColor=FFFFFF) |
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sylverthorn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Yanis's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylverthorn&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</p>
+
+### `02 // TELEMETRY`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sylverthorn&show_icons=true&include_all_commits=true&count_private=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=9E9E9E&icon_color=FFFFFF&border_color=262626&border_radius=0" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylverthorn&layout=compact&include_all_commits=true&count_private=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=9E9E9E&border_color=262626&border_radius=0" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sylverthorn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sylverthorn&background=0A0A0A&border=262626&stroke=262626&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9E9E9E&sideLabels=9E9E9E&dates=666666&border_radius=0" alt="GitHub Streak" />
 </p>
 
----
+<br/>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sylverthorn&icon=5&color=12" alt="Profile views" />
-</p>
-
-<!-- Pied de page -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:38BDF8&height=100&section=footer" width="100%" />
+  <img src="https://visitcount.itsvg.in/api?id=Sylverthorn&icon=0&color=0" alt="Visits" />
 </p>
