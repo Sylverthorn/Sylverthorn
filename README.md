@@ -1,56 +1,50 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Korichi Yanis" width="100%" />
+<a href="https://github.com/Sylverthorn">
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=26&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=60&lines=KORICHI+YANIS;DEVELOPMENT+%2F+NETWORKING+%2F+SYSTEMS;CODE+%E2%80%A2+INFRASTRUCTURE+%E2%80%A2+AUTOMATION" alt="Korichi Yanis" />
+</a>
+
+<sub><b>@Sylverthorn</b> — Building software, configuring networks & automating systems.</sub>
 
 <br/><br/>
 
-**Korichi Yanis** — Building software, architecting networks, and engineering systems.
+<img src="https://visitcount.itsvg.in/api?id=Sylverthorn&icon=5&color=0" alt="Profile Views" />
 
-<br/>
+</div>
 
-<a href="https://github.com/Sylverthorn"><kbd>&nbsp;&nbsp;GitHub&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/TON-PROFIL"><kbd>&nbsp;&nbsp;LinkedIn&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
-<a href="mailto:ton.email@exemple.com"><kbd>&nbsp;&nbsp;Contact&nbsp;&nbsp;</kbd></a>
+---
 
-<br/><br/>
+### What I Work With
 
-<img src="assets/divider.svg" alt="" width="100%" />
-
-<br/>
-
-<h3>Core Focus</h3>
-
-**Development** · Backend services, web applications & automation scripts  
-**Networking** · Routing, switching, network architecture & protocols  
-**Systems** · Server administration, containerization & embedded hardware
-
-<br/>
-
-<img src="assets/divider.svg" alt="" width="100%" />
-
-<br/>
-
-<h3>Stack</h3>
-
-<sub><strong>DEVELOPMENT</strong></sub><br/><br/>
-<img src="https://img.shields.io/badge/-Python-181818?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=0A0A0A" alt="Python" />
-<img src="https://img.shields.io/badge/-Django-181818?style=for-the-badge&logo=django&logoColor=FFFFFF&labelColor=0A0A0A" alt="Django" />
-<img src="https://img.shields.io/badge/-JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=0A0A0A" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-HTML5-181818?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=0A0A0A" alt="HTML5" />
-<img src="https://img.shields.io/badge/-CSS3-181818?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=0A0A0A" alt="CSS3" />
-<img src="https://img.shields.io/badge/-MySQL-181818?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=0A0A0A" alt="MySQL" />
-
-<br/><br/>
-
-<sub><strong>NETWORKING</strong></sub><br/><br/>
-<img src="https://img.shields.io/badge/-Cisco-181818?style=for-the-badge&logo=cisco&logoColor=FFFFFF&labelColor=0A0A0A" alt="Cisco" />
-<img src="https://img.shields.io/badge/-Ubiquiti-181818?style=for-the-badge&logo=ubiquiti&logoColor=FFFFFF&labelColor=0A0A0A" alt="Ubiquiti" />
-<img src="https://img.shields.io/badge/-Mosquitto-181818?style=for-the-badge&logo=eclipsemosquitto&logoColor=FFFFFF&labelColor=0A0A0A" alt="Mosquitto" />
-
-<br/><br/>
-
-<sub><strong>SYSTEMS & INFRA</strong></sub><br/><br/>
-<img src="https://img.shields.io/badge/-Docker-181818?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=0A0A0A" alt="Docker" />
-<img src="https://img.shields.io/badge/-Apache-181818?style=for-the-badge&logo=apache&logoColor=FFFFFF&labelColor=0A0A0A" alt="Apache" />
-<img src="https://img.shields.io/badge/-Bash-181818?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF&labelColor=0A0A0A" alt="Bash" />
-<img src="
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4 align="center">Development</h4>
+      <p align="center"><sub>Backend, web apps & databases</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=FFFFFF" alt="Python" />
+        <img src="https://img.shields.io/badge/Django-161B22?style=flat-square&logo=django&logoColor=FFFFFF" alt="Django" />
+        <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=FFFFFF" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=FFFFFF" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=FFFFFF" alt="CSS3" />
+        <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center">Networking</h4>
+      <p align="center"><sub>Routing, switching & IoT protocols</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Cisco-161B22?style=flat-square&logo=cisco&logoColor=FFFFFF" alt="Cisco" />
+        <img src="https://img.shields.io/badge/Ubiquiti-161B22?style=flat-square&logo=ubiquiti&logoColor=FFFFFF" alt="Ubiquiti" />
+        <img src="https://img.shields.io/badge/Mosquitto-161B22?style=flat-square&logo=eclipsemosquitto&logoColor=FFFFFF" alt="Mosquitto" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center">Systems</h4>
+      <p align="center"><sub>Containers, scripting & hardware</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=FFFFFF" alt="Docker" />
+        <img src="https://img.shields.io/badge/Apache-161B22?style=flat-square&logo=apache&logoColor=FFFFFF" alt="Apache" />
+        <img src="https://img.shields.io/badge/Bash-161B22?style=flat-square&logo=gnu-bash&logoColor=FFFFFF" alt="Bash" />
+        <img src="https://img.shields.io/badge/PowerShell-161B22?style=flat-square&logo=powershell&logoColor=FFFFFF" alt="PowerShell" />
+        <img src="
