@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 16" width="100%" height="16">
+  <style>
+    .stream-1 { animation: slideRight 4.5s steps(60, end) infinite; }
+    .stream-2 { animation: slideRight 6.2s steps(60, end) infinite 1.8s; }
+    .stream-3 { animation: slideLeft 5.4s steps(60, end) infinite 0.7s; }
+    @keyframes slideRight {
+      0%   { transform: translateX(-20px); opacity: 0; }
+      5%   { opacity: 1; }
+      95%  { opacity: 1; }
+      100% { transform: translateX(850px); opacity: 0; }
+    }
+    @keyframes slideLeft {
+      0%   { transform: translateX(850px); opacity: 0; }
+      5%   { opacity: 1; }
+      95%  { opacity: 1; }
+      100% { transform: translateX(-20px); opacity: 0; }
+    }
+  </style>
+  <g>
+    <rect x="0" y="7" width="840" height="2" fill="#1F1F1F" />
+    <rect x="0" y="6" width="12" height="4" fill="#FFFFFF" class="stream-1" />
+    <rect x="0" y="6" width="8" height="4" fill="#737373" class="stream-2" />
+    <rect x="0" y="6" width="6" height="4" fill="#A3A3A3" class="stream-3" />
+  </g>
+</svg>
